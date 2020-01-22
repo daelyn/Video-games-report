@@ -23,7 +23,7 @@ Exploratory Data Analysis
 
    3. Data Cleaning: Clean the data, removing rows and columns that have no useful information or no information at all.
 
-    4. Adaptation: Create at least two additional columns that are necessary for your study. They can be calculated columns or 
+   4. Adaptation: Create at least two additional columns that are necessary for your study. They can be calculated columns or 
     aggregated columns.
 
 Visualization
